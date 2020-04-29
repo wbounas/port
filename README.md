@@ -1,5 +1,10 @@
-Basic File Structure:
-portfolio (parent directory)
+# React Portfolio Project
+
+The purpose of this repo is to learn the basics of using ReactJS and developing a new portfolio to eventually publish.
+
+## Basic File Structure:
+
+###portfolio (parent directory)
 ├── README.md (description of the project for GitHUb)
 ├── node_modules (stores all dependent modules for the project)
 ├── package.json (stores all meta information of the prokect like dependencies,version,revisions etc.)
